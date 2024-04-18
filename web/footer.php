@@ -1,3 +1,0 @@
-<footer>
-        ©kucerova.web
-</footer>
